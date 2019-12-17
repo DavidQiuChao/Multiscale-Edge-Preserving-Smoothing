@@ -11,6 +11,6 @@ res.png: the absolute output path of the result image.
 
 ![Tower](https://github.com/DavidQiuChao/Multiscale-Edge-Preserving-Smoothing/blob/master/under530.png)
 ![Tower](https://github.com/DavidQiuChao/Multiscale-Edge-Preserving-Smoothing/blob/master/mean530.png)
-![Tower](https://github.com/DavidQiuChao/Multiscale-Edge-Preserving-Smoothing/blob/master/over530.png)
 
+![Tower](https://github.com/DavidQiuChao/Multiscale-Edge-Preserving-Smoothing/blob/master/over530.png)
 ![Tower](https://github.com/DavidQiuChao/Multiscale-Edge-Preserving-Smoothing/blob/master/res.jpg)
