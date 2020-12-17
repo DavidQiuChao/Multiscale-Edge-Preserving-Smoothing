@@ -11,6 +11,7 @@ res.png: the absolute output path of the result image.
 underExposure|normalExposure
 ----|-----
 ![Tower_u](https://github.com/DavidQiuChao/Multiscale-Edge-Preserving-Smoothing/blob/master/under530.png)|![Tower_m](https://github.com/DavidQiuChao/Multiscale-Edge-Preserving-Smoothing/blob/master/mean530.png)
+
 overExposure|fusionResult
 ----|-----
 ![Tower_o](https://github.com/DavidQiuChao/Multiscale-Edge-Preserving-Smoothing/blob/master/over530.png)|![Tower](https://github.com/DavidQiuChao/Multiscale-Edge-Preserving-Smoothing/blob/master/res.jpg)
